@@ -24,7 +24,8 @@ sub learn-page(&basepage, $shadow) is export {
 
                     #### Online Learning
 
-                     - [A Tour of Raku](https://raku.online/tour/), interactive lessons you can run in the browser
+                     - [A Tour of Raku](https://learn.raku.online/tour/), interactive lessons you can run in the browser
+                     - [Raku as a Foreign Language](https://learn.raku.online/), learn Raku by comparing it with the language you already know
                      - [The Complete Course of the Raku Programming Language](https://course.raku.org/)
                      - Learn Raku app for [iOS](https://apps.apple.com/app/learn-raku/id6788222934) and [Android](https://play.google.com/store/apps/details?id=online.deepsoft.learnraku), the Course and a playground on your phone
                      - [mutsu's hands-on Raku tutorial](https://tokuhirom.github.io/mutsu/tutorial.html)
@@ -40,7 +41,7 @@ sub learn-page(&basepage, $shadow) is export {
 
                     #### Practice
 
-                     - [Raku Drills](https://raku.online/drills/), graded questions from beginner to advanced
+                     - [Raku Drills](https://learn.raku.online/drills/), graded questions from beginner to advanced
                      - [Raku Koans](https://hankache.github.io/raku-koans/), fix the tests one by one
                      - [Raku on Exercism](https://exercism.org/tracks/raku)
                      - [Raku on Codewars](https://www.codewars.com/kata/search/raku)
@@ -56,7 +57,7 @@ sub learn-page(&basepage, $shadow) is export {
                     #### Code Examples
 
                      - Raku is well represented on [Rosetta Code](https://rosettacode.org/wiki/Category:Raku), where you can see the Raku Programming Language (and many other languages) applied to numerous programming tasks.
-                     - [Raku by Example](https://raku.online/examples/), complete programs you can run in the browser
+                     - [Raku by Example](https://learn.raku.online/examples/), complete programs you can run in the browser
                     END
                 ];
                 panel :order(2), [
