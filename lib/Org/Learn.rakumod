@@ -25,7 +25,7 @@ sub learn-page(&basepage, $shadow) is export {
                     #### Online Learning
 
                      - [A Tour of Raku](https://learn.raku.online/tour/), interactive lessons you can run in the browser
-                     - [Raku as a Foreign Language](https://learn.raku.online/), learn Raku by comparing it with the language you already know
+                     - [Raku as a Foreign Language](https://learn.raku.online/foreign-language/), learn Raku by comparing it with the language you already know
                      - [The Complete Course of the Raku Programming Language](https://course.raku.org/)
                      - Learn Raku app for [iOS](https://apps.apple.com/app/learn-raku/id6788222934) and [Android](https://play.google.com/store/apps/details?id=online.deepsoft.learnraku), the Course and a playground on your phone
                      - [mutsu's hands-on Raku tutorial](https://tokuhirom.github.io/mutsu/tutorial.html)
